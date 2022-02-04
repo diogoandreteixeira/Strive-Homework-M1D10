@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+	text-align: center;
+	background-color: #29a0a0;
+	color: rgb(0, 0, 0);
+    padding: 10px 30px 50px 80px;
+	font-size: 28px;
+	font-family: 'Indie Flower', cursive;
+}
